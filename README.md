@@ -1,5 +1,5 @@
 # Water_Drinking_Reminder
 ```
-Requirements:<br/>
-_ pip install plyer
+Requirements:
+* pip install plyer
 ```
